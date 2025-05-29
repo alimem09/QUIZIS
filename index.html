@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Викторина</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="quiz-container">
+        <h1>Викторина</h1>
+
+        <!-- Экран приветствия -->
+        <div id="start-screen">
+            <label for="name">Введите ваше имя:</label>
+            <input type="text" id="name" placeholder="Ваше имя">
+            <label for="category">Выберите категорию:</label>
+            <select id="category">
+                <option value="all">Все категории</option>
+                <option value="Geography">География</option>
+                <option value="General">Общие знания</option>
+                <option value="History">История</option>
+            </select>
+
+            <button id="start-btn">Начать викторину</button>
+        </div>
+
+        <!-- Экран викторины -->
+        <div id="quiz-screen" style="display: none;">
+            <div id="question-container"></div>
+            <div id="options-container"></div>
+            <button id="next-btn">Следующий вопрос</button>
+        </div>
+
+        <!-- Экран результатов -->
+        <div id="result-screen" style="display: none;">
+            <div id="result-container"></div>
+            <button id="restart-btn">Начать заново</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

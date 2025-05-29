@@ -96,18 +96,6 @@
     "difficulty": "Medium"
   },
   {
-    "question": "What is the capital and largest city of Hawaii, the 50th US state?",
-    "options": {
-      "A": "Little Rock",
-      "B": "Dover",
-      "C": "Frankfort",
-      "D": ""
-    },
-    "answer": null,
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
     "question": "When the streams Biya and Katun join in Altai Krai, they form this mighty river. It is located in West Siberia, Russia and has many names- the Siberian Tatars call it Omar or Umar, the Samoyedes- Kolta or Kuay and to the Ostiaks it is known as the As, Yag, Kolta and Yema. It joins the Irtysh river, forming the longest river flow in Russia. What is its name?",
     "options": {
       "A": "Ural",
@@ -260,30 +248,6 @@
       "D": ""
     },
     "answer": "B",
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which continents (landmasses, not peripheral islands) are entirely in the Northern Hemisphere?",
-    "options": {
-      "A": "North America and Europe",
-      "B": "Europe, Africa and Asia",
-      "C": "North America, Africa, and Asia",
-      "D": ""
-    },
-    "answer": null,
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which continents are entirely in the Western Hemisphere?",
-    "options": {
-      "A": "North America, Europe, and Asia",
-      "B": "Europe, Asia, Africa, Australia",
-      "C": "Australia and Antarctica",
-      "D": ""
-    },
-    "answer": null,
     "category": "Geography",
     "difficulty": "Medium"
   },
@@ -456,18 +420,6 @@
     "difficulty": "Medium"
   },
   {
-    "question": "Onega, Khanka and Chudskoye are three of the many lakes in this country.",
-    "options": {
-      "A": "Kazakhstan",
-      "B": "Mongolia",
-      "C": "Ukraine",
-      "D": ""
-    },
-    "answer": null,
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
     "question": "The valleys of the Yellow River and the Pearl River are two of the seven main national valleys in this country.",
     "options": {
       "A": "Burma",
@@ -524,18 +476,6 @@
       "D": ""
     },
     "answer": "B",
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Kaskaspakte, Akka and Sielmmacohkka are three mountains in this country.",
-    "options": {
-      "A": "Norway",
-      "B": "Finland",
-      "C": "Denmark",
-      "D": ""
-    },
-    "answer": null,
     "category": "Geography",
     "difficulty": "Medium"
   },
@@ -609,30 +549,6 @@
     },
     "answer": "A",
     "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Where would you find the shortest river in the world?",
-    "options": {
-      "A": "Wales",
-      "B": "Ecuador",
-      "C": "Tasmania",
-      "D": ""
-    },
-    "answer": null,
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "What major geographical feature is located at 23.5 degrees North latitude?",
-    "options": {
-      "A": "The Equator",
-      "B": "The Arctic Circle",
-      "C": "The Tropic of Capricorn",
-      "D": ""
-    },
-    "answer": null,
-    "category": "General",
     "difficulty": "Medium"
   },
   {
@@ -732,42 +648,6 @@
     "difficulty": "Medium"
   },
   {
-    "question": "Which one of these mountains is not a volcano?",
-    "options": {
-      "A": "Mauna Kea",
-      "B": "Mount St. Helens",
-      "C": "Mount Vesuvius",
-      "D": ""
-    },
-    "answer": null,
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "The highest mountain peak on our planet is Mount Everest. It was first climbed by Edmund Hillary and Tenzing Norgay on May 29, 1953. What is the home country of Sir Edmund Hillary?",
-    "options": {
-      "A": "United Kingdom",
-      "B": "The United States",
-      "C": "France",
-      "D": ""
-    },
-    "answer": null,
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which saltwater lake, bordered on the west by Azerbaijan and Russia, is the largest inland body of water in the world?",
-    "options": {
-      "A": "Tanganyika",
-      "B": "Victoria",
-      "C": "Baikal",
-      "D": ""
-    },
-    "answer": null,
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
     "question": "This country, situated in North Europe, has almost 200 000 lakes - more than any other country in the world.",
     "options": {
       "A": "Finland",
@@ -776,18 +656,6 @@
       "D": ""
     },
     "answer": "A",
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which body of water, situated in Southern Siberia, is the deepest and oldest freshwater lake on Earth?",
-    "options": {
-      "A": "Onega",
-      "B": "Ladoga",
-      "C": "Huron",
-      "D": ""
-    },
-    "answer": null,
     "category": "Geography",
     "difficulty": "Medium"
   },
@@ -836,18 +704,6 @@
       "D": ""
     },
     "answer": "A",
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "This is the lowest lake on Earth, situated at about 400 meters below sea level on the border between Israel and Jordan.",
-    "options": {
-      "A": "Issyk-Kul",
-      "B": "Balkhash",
-      "C": "Urmia",
-      "D": ""
-    },
-    "answer": null,
     "category": "Geography",
     "difficulty": "Medium"
   },
@@ -924,18 +780,6 @@
     "difficulty": "Medium"
   },
   {
-    "question": "Which of the following states has an official motto In God we trust, which is also the official motto of the United States of America?",
-    "options": {
-      "A": "Georgia",
-      "B": "Washington",
-      "C": "South Dakota",
-      "D": ""
-    },
-    "answer": null,
-    "category": "General",
-    "difficulty": "Medium"
-  },
-  {
     "question": "Three of these US states have an official motto related to liberty. Spot the odd one.",
     "options": {
       "A": "Iowa",
@@ -944,18 +788,6 @@
       "D": ""
     },
     "answer": "B",
-    "category": "General",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "This famous Latin maxim, which is the official motto of South Carolina, means While I breathe, I hope.",
-    "options": {
-      "A": "Si quaeris peninsulam amoenam circumspice",
-      "B": "Nil sine numine",
-      "C": "Salus populi suprema lex esto",
-      "D": ""
-    },
-    "answer": null,
     "category": "General",
     "difficulty": "Medium"
   },
@@ -992,18 +824,6 @@
       "D": ""
     },
     "answer": "B",
-    "category": "General",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "This famous exclamation, which has been attributed to ancient scientist Archimedes, is the official state motto of California.",
-    "options": {
-      "A": "Excelsior!",
-      "B": "Virtute et armis",
-      "C": "Ad astra per aspera",
-      "D": ""
-    },
-    "answer": null,
     "category": "General",
     "difficulty": "Medium"
   },
@@ -1064,18 +884,6 @@
       "D": ""
     },
     "answer": "A",
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Mount Vesuvius, that is notorious for the destruction of two Roman cities in the year 79, was linked most closely to which hero and demigod?",
-    "options": {
-      "A": "Asclepius",
-      "B": "Apollo",
-      "C": "Zeus",
-      "D": ""
-    },
-    "answer": null,
     "category": "Geography",
     "difficulty": "Medium"
   },
@@ -1464,18 +1272,6 @@
     "difficulty": "Medium"
   },
   {
-    "question": "While driving or walking down Kings Cross Road and Farringdon Road in London few people are aware that unseen beneath them runs which river?",
-    "options": {
-      "A": "River Thames",
-      "B": "River Avon (Shakespeares Avon)",
-      "C": "River Rhodda",
-      "D": ""
-    },
-    "answer": null,
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
     "question": "Who made the statue of King Richard I outside the Houses of Parliament in Old Palace Yard in London?",
     "options": {
       "A": "John Doubleday",
@@ -1485,18 +1281,6 @@
     },
     "answer": "B",
     "category": "History",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "The Great Pavement, a hidden, unknown to most tourists and seldom-displayed treasure, is located in which building in London?",
-    "options": {
-      "A": "Buckingham Palace",
-      "B": "Tate Gallery",
-      "C": "St Jamess Palace",
-      "D": ""
-    },
-    "answer": null,
-    "category": "General",
     "difficulty": "Medium"
   },
   {
@@ -1548,18 +1332,6 @@
     "difficulty": "Medium"
   },
   {
-    "question": "The Big Smoky Valley, that runs between the Toiyabe Range and the Toquima Range, is located in which US state?",
-    "options": {
-      "A": "Minnesota",
-      "B": "Indiana",
-      "C": "Oregon",
-      "D": ""
-    },
-    "answer": null,
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
     "question": "The Grand Valley is an extended populated agricultural valley located along which US river?",
     "options": {
       "A": "Alabama River",
@@ -1580,18 +1352,6 @@
       "D": ""
     },
     "answer": "B",
-    "category": "Geography",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "This densely populated valley in the state of Utah is enclosed by steep mountains in every direction except the northwest.",
-    "options": {
-      "A": "St. Lawrence Valley",
-      "B": "Livermore Valley",
-      "C": "Las Vegas Valley",
-      "D": ""
-    },
-    "answer": null,
     "category": "Geography",
     "difficulty": "Medium"
   },
@@ -1784,18 +1544,6 @@
       "D": ""
     },
     "answer": "C",
-    "category": "General",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which US state is nicknamed The Pine Tree State?",
-    "options": {
-      "A": "New Hampshire",
-      "B": "Missouri",
-      "C": "Massachusetts",
-      "D": ""
-    },
-    "answer": null,
     "category": "General",
     "difficulty": "Medium"
   },
@@ -2060,18 +1808,6 @@
       "D": ""
     },
     "answer": "C",
-    "category": "General",
-    "difficulty": "Medium"
-  },
-  {
-    "question": "Which former British colony joined the European Union in 2004?",
-    "options": {
-      "A": "Gibraltar",
-      "B": "Ireland",
-      "C": "Syria",
-      "D": ""
-    },
-    "answer": null,
     "category": "General",
     "difficulty": "Medium"
   },
@@ -9345,6 +9081,246 @@
     },
     "answer": "A",
     "category": "General",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Когда было образовано Казахское ханство?",
+    "options": {
+      "A": "1456",
+      "B": "1511",
+      "C": "1718",
+      "D": "1299"
+    },
+    "answer": "A",
+    "category": "History of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Какой город был первой столицей Казахской ССР?",
+    "options": {
+      "A": "Алматы",
+      "B": "Кызылорда",
+      "C": "Астана",
+      "D": "Семей"
+    },
+    "answer": "B",
+    "category": "History of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Кто возглавил национально-освободительное восстание 1837–1847 гг.?",
+    "options": {
+      "A": "Сырым Датулы",
+      "B": "Кенесары Касымов",
+      "C": "Исатай Тайманов",
+      "D": "Абылай хан"
+    },
+    "answer": "B",
+    "category": "History of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Какой поэт написал «Книга моих отцов»?",
+    "options": {
+      "A": "Абай Кунанбаев",
+      "B": "Шокан Уалиханов",
+      "C": "Мухтар Ауэзов",
+      "D": "Жамбыл Жабаев"
+    },
+    "answer": "A",
+    "category": "History of Kazakhstan",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Какое событие произошло в Жанаозене в 2011 году?",
+    "options": {
+      "A": "Природное землетрясение",
+      "B": "Экономический форум",
+      "C": "Социальные протесты",
+      "D": "Выборы акима"
+    },
+    "answer": "C",
+    "category": "History of Kazakhstan",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Как назывался союз тюркских племён в VI–VIII веках на территории Казахстана?",
+    "options": {
+      "A": "Сельджуки",
+      "B": "Карлуки",
+      "C": "Тюркский каганат",
+      "D": "Хунну"
+    },
+    "answer": "C",
+    "category": "History of Kazakhstan",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Кто возглавил Алаш Орду?",
+    "options": {
+      "A": "Алихан Букейханов",
+      "B": "Ахмет Байтурсынов",
+      "C": "Мустафа Шокай",
+      "D": "Миржакип Дулатов"
+    },
+    "answer": "A",
+    "category": "History of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Когда началась Великая Отечественная война?",
+    "options": {
+      "A": "1940",
+      "B": "1941",
+      "C": "1939",
+      "D": "1945"
+    },
+    "answer": "B",
+    "category": "History of Kazakhstan",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Кто был известным ученым и просветителем Казахстана XIX века?",
+    "options": {
+      "A": "Жамбыл Жабаев",
+      "B": "Абылай хан",
+      "C": "Шокан Уалиханов",
+      "D": "Кабанбай батыр"
+    },
+    "answer": "C",
+    "category": "History of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Какой писатель написал роман «Путь Абая»?",
+    "options": {
+      "A": "Габит Мусрепов",
+      "B": "Мухтар Ауэзов",
+      "C": "Сабит Муканов",
+      "D": "Бейсимбай Кенжебаев"
+    },
+    "answer": "B",
+    "category": "History of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Какая река протекает через Павлодар и уходит в Россию?",
+    "options": {
+      "A": "Ишим",
+      "B": "Урал",
+      "C": "Сырдарья",
+      "D": "Иртыш"
+    },
+    "answer": "D",
+    "category": "Geography of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Где расположен Байконурский космодром?",
+    "options": {
+      "A": "Акмолинская область",
+      "B": "Кызылординская область",
+      "C": "Туркестанская область",
+      "D": "Атырауская область"
+    },
+    "answer": "B",
+    "category": "Geography of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Какое море находится на западе Казахстана?",
+    "options": {
+      "A": "Аральское",
+      "B": "Балтийское",
+      "C": "Каспийское",
+      "D": "Черное"
+    },
+    "answer": "C",
+    "category": "Geography of Kazakhstan",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Где находится озеро Алаколь?",
+    "options": {
+      "A": "Восточно-Казахстанская область",
+      "B": "Костанайская область",
+      "C": "Акмолинская область",
+      "D": "Жамбылская область"
+    },
+    "answer": "A",
+    "category": "Geography of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Какой регион считается самым жарким в Казахстане?",
+    "options": {
+      "A": "Кызылординская область",
+      "B": "Туркестанская область",
+      "C": "Атырауская область",
+      "D": "Алматинская область"
+    },
+    "answer": "C",
+    "category": "Geography of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Какой национальный парк находится в горах Тянь-Шаня?",
+    "options": {
+      "A": "Бурабай",
+      "B": "Алтын-Эмель",
+      "C": "Иле-Алатау",
+      "D": "Наурзум"
+    },
+    "answer": "C",
+    "category": "Geography of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Что является самой высокой вершиной Казахстана?",
+    "options": {
+      "A": "Нарын",
+      "B": "Хан-Тенгри",
+      "C": "Белуха",
+      "D": "Тянь-Шань"
+    },
+    "answer": "B",
+    "category": "Geography of Kazakhstan",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Какой город находится ближе всего к границе с Китаем?",
+    "options": {
+      "A": "Талдыкорган",
+      "B": "Алматы",
+      "C": "Жаркент",
+      "D": "Семей"
+    },
+    "answer": "C",
+    "category": "Geography of Kazakhstan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Какой водоем является солёным и находится на юго-западе страны?",
+    "options": {
+      "A": "Арал",
+      "B": "Балхаш",
+      "C": "Каспийское море",
+      "D": "Сасыкколь"
+    },
+    "answer": "C",
+    "category": "Geography of Kazakhstan",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Какое озеро считается крупнейшим пресноводным озером в Казахстане?",
+    "options": {
+      "A": "Зайсан",
+      "B": "Тенгиз",
+      "C": "Балхаш",
+      "D": "Байкал"
+    },
+    "answer": "A",
+    "category": "Geography of Kazakhstan",
     "difficulty": "Medium"
   }
 ]
